@@ -66,7 +66,7 @@
 
 Aarven provides AI-powered bookkeeping solutions tailored for Swiss small and medium-sized enterprises (KMU) and trustees. Leveraging artificial intelligence, the platform automatically captures receipts, records transactions, generates balance sheets, profit & loss statements, and monitors VAT. Users can connect the system directly with large language models such as Claude, ChatGPT, and others to enhance workflow. The service offers a free starter tier and integrates with popular tools via Zapier, aiming to streamline accounting for the Swiss market.
 
-**Areas:** Accounting · AI · Bookkeeping · Swiss · Finance · Automation
+**Areas:** Accounting · Artificial Intelligence · Bookkeeping · Swiss · Finance · Automation
 
 ## Aarven on APIs.io
 
@@ -84,26 +84,26 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aarven Ch Authentication](https://apis.io/security/aarven-ch/aarven-ch-authentication/)
-- [Aarven Ch Domain Security](https://apis.io/security/aarven-ch/aarven-ch-domain-security/)
+- [Aarven Authentication](https://apis.io/security/aarven-ch/aarven-ch-authentication/)
+- [Aarven Domain Security](https://apis.io/security/aarven-ch/aarven-ch-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Aarven Ch Scopes](https://apis.io/scopes/aarven-ch/aarven-ch-scopes/)
+- [Aarven Scopes](https://apis.io/scopes/aarven-ch/aarven-ch-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Aarven Ch Plans Pricing](https://apis.io/plans/aarven-ch/aarven-ch-plans-pricing/)
+- [Aarven Plans Pricing](https://apis.io/plans/aarven-ch/aarven-ch-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Aarven Ch Rate Limits](https://apis.io/rate-limits/aarven-ch/aarven-ch-rate-limits/)
+- [Aarven Rate Limits](https://apis.io/rate-limits/aarven-ch/aarven-ch-rate-limits/)
 
 ## Where to find this API
 
@@ -120,25 +120,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 36.3** — thin · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 37.1** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 73.2 |
 | Contract quality | 0.0 |
-| Contract governance | 16.4 |
-| Operational transparency | 18.9 |
+| Contract governance | 18.2 |
+| Operational transparency | 19.0 |
 | Developer ergonomics | 40.5 |
-| Access clarity | 73.2 |
+| Access clarity | 76.6 |
 
-**Agent readiness 30.4** — agent-ready
+**Agent readiness 26.8** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | documented (partial credit) |
 | Error Semantics | documented (partial credit) |
@@ -156,8 +156,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 26.4** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aarven-ch/](https://apis.io/providers/aarven-ch/).
 
